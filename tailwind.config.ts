@@ -52,6 +52,9 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				'ariba-green': 'hsl(var(--ariba-green))',
+				'ariba-orange': 'hsl(var(--ariba-orange))',
+				'ariba-gray': 'hsl(var(--ariba-gray))',
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
